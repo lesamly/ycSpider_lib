@@ -1,0 +1,4 @@
+{
+    "DB_NAME":"yc",
+    "MYSQL_CONN_STR":"root:112093539@tcp(127.0.0.1:3306)"
+}

@@ -1,0 +1,640 @@
+2016/04/22 02:49:14 [I]                                                                                                ！！当前运行模式为：[ 单机 ] 模式！！
+2016/04/22 02:49:22 [I]  *     不使用代理IP
+
+2016/04/22 02:49:22 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2016/04/22 02:49:22 [I]  *     爬虫池容量为 1
+
+2016/04/22 02:49:22 [I]  *     并发协程最多 20 个
+
+2016/04/22 02:49:22 [I]  *     随机停顿区间为 150~600 毫秒
+
+2016/04/22 02:49:22 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2016/04/22 02:49:22 [I]  *********************************************************************************************************************************** 
+2016/04/22 02:49:23 [I]  *     Success: http://baidu.lecai.com/lottery/draw/list/50?type=range_date&start=2013-01-01&end=2016-04-22
+
+2016/04/22 02:49:23 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] subNamespace: interface conversion: interface is nil, not string
+2016/04/22 02:49:24 [E] Error 1062: Duplicate entry '2016044' for key 'PRIMARY'
+2016/04/22 02:49:24 [I]  * 
+2016/04/22 02:49:24 [P]  *     [任务输出：双色球 | KEYIN： | 批次：1]   数据 500 条，用时 1.658925716s！
+
+2016/04/22 02:49:24 [I]  * 
+2016/04/22 02:49:24 [P]  *     [任务小计：双色球 | KEYIN：]   共采集数据 500 条，用时 1.65980464s！
+
+2016/04/22 02:49:24 [I]  * 
+2016/04/22 02:49:24 [I]  *********************************************************************************************************************************** 
+2016/04/22 02:49:24 [I]  * 
+2016/04/22 02:49:24 [P]  *                            —— 本次合计采集【数据 500 条】， 实爬URL【成功 1 页 + 失败 0 页 = 合计 1 页】，耗时【1.659865686s】 ——
+2016/04/22 02:49:24 [I]  * 
+2016/04/22 02:49:24 [I]  *********************************************************************************************************************************** 
+2016/04/22 02:50:12 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: address already in use
+2016/04/22 02:51:08 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: address already in use
+2016/04/22 03:01:43 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: address already in use
+2016/04/23 23:52:09 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: address already in use
+2016/04/24 00:14:02 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: address already in use
+2016/04/26 02:15:50 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: address already in use
+2016/05/04 00:07:04 [I]                                                                                                ！！当前运行模式为：[ 单机 ] 模式！！
+2016/05/04 00:24:51 [I]  *     不使用代理IP
+
+2016/05/04 00:24:51 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2016/05/04 00:24:51 [I]  *     爬虫池容量为 1
+
+2016/05/04 00:24:51 [I]  *     并发协程最多 20 个
+
+2016/05/04 00:24:51 [I]  *     随机停顿区间为 150~600 毫秒
+
+2016/05/04 00:24:51 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2016/05/04 00:24:51 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:24:51 [C] ************************ ……设置定时器 <厦门政府> 成功 ……************************
+2016/05/04 00:24:57 [I]  *     Success: http://www.xm.gov.cn/
+
+2016/05/04 00:24:57 [I]  *     Success: http://www.xm.gov.cn/wsbs/
+
+2016/05/04 00:24:58 [I]  *     Success: http://www.xm.gov.cn/bszn/grbs/
+
+2016/05/04 00:24:58 [I]  * 
+2016/05/04 00:24:58 [P]  *     [任务输出：厦门政府 | KEYIN： | 批次：1]   数据 1 条，用时 6.927464966s！
+
+2016/05/04 00:24:58 [I]  * 
+2016/05/04 00:24:58 [P]  *     [任务小计：厦门政府 | KEYIN：]   共采集数据 1 条，用时 6.928369833s！
+
+2016/05/04 00:24:58 [I]  * 
+2016/05/04 00:24:58 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:24:58 [I]  * 
+2016/05/04 00:24:58 [P]  *                            —— 本次合计采集【数据 1 条】， 实爬URL【成功 3 页 + 失败 0 页 = 合计 3 页】，耗时【6.928474785s】 ——
+2016/05/04 00:24:58 [I]  * 
+2016/05/04 00:24:58 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:27:19 [I]                                                                                                ！！当前运行模式为：[ 单机 ] 模式！！
+2016/05/04 00:27:27 [I]  *     不使用代理IP
+
+2016/05/04 00:27:27 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2016/05/04 00:27:27 [I]  *     爬虫池容量为 1
+
+2016/05/04 00:27:27 [I]  *     并发协程最多 20 个
+
+2016/05/04 00:27:27 [I]  *     随机停顿区间为 150~600 毫秒
+
+2016/05/04 00:27:27 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2016/05/04 00:27:27 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:27:27 [C] ************************ ……设置定时器 <厦门政府> 成功 ……************************
+2016/05/04 00:27:28 [I]  *     Success: http://www.xm.gov.cn/
+
+2016/05/04 00:27:28 [I]  *     Success: http://www.xm.gov.cn/wsbs/
+
+2016/05/04 00:27:28 [I]  *     + 失败请求: [http://www.xm.gov.cn/bszn/grbs/]
+
+2016/05/04 00:27:28 [E]  *     Panic  [process][http://www.xm.gov.cn/bszn/grbs/]: runtime error: invalid memory address or nil pointer dereference
+
+2016/05/04 00:27:29 [I]  *     - 失败请求: [http://www.xm.gov.cn/bszn/grbs/]
+
+2016/05/04 00:27:29 [E]  *     Panic  [process][http://www.xm.gov.cn/bszn/grbs/]: runtime error: invalid memory address or nil pointer dereference
+
+2016/05/04 00:27:30 [E]  *     Fail  [添加失败记录][mysql]: 1 条 [ERROR]  Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '市民办事\\"\",\"name\":\"\\"网上办事\\"\",\"p\":\"1\",\"referer\":\"\\"h' at line 1
+
+2016/05/04 00:27:31 [I]  * 
+2016/05/04 00:27:31 [P]  *     [任务输出：厦门政府 | KEYIN： | 批次：1]   数据 1 条，用时 4.346432057s！
+
+2016/05/04 00:27:31 [I]  * 
+2016/05/04 00:27:31 [P]  *     [任务小计：厦门政府 | KEYIN：]   共采集数据 1 条，用时 4.34710937s！
+
+2016/05/04 00:27:31 [I]  * 
+2016/05/04 00:27:31 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:27:31 [I]  * 
+2016/05/04 00:27:31 [P]  *                            —— 本次合计采集【数据 1 条】， 实爬URL【成功 2 页 + 失败 1 页 = 合计 3 页】，耗时【4.347133889s】 ——
+2016/05/04 00:27:31 [I]  * 
+2016/05/04 00:27:31 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:41:06 [I]                                                                                                ！！当前运行模式为：[ 单机 ] 模式！！
+2016/05/04 00:41:10 [I]  *     不使用代理IP
+
+2016/05/04 00:41:10 [I]  *     执行任务总数(任务数[*自定义配置数])为 1 个
+
+2016/05/04 00:41:10 [I]  *     爬虫池容量为 1
+
+2016/05/04 00:41:10 [I]  *     并发协程最多 20 个
+
+2016/05/04 00:41:10 [I]  *     随机停顿区间为 150~600 毫秒
+
+2016/05/04 00:41:10 [P]  *                                                                                                 —— 开始抓取，请耐心等候 ——
+2016/05/04 00:41:10 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:41:11 [I]  *     [读取失败记录]: 0 条
+
+2016/05/04 00:41:11 [C] ************************ ……设置定时器 <厦门政府> 成功 ……************************
+2016/05/04 00:41:11 [I]  *     Success: http://www.xm.gov.cn/
+
+2016/05/04 00:41:12 [I]  *     Success: http://www.xm.gov.cn/wsbs/
+
+2016/05/04 00:41:12 [I]  *     Success: http://www.xm.gov.cn/bszn/grbs/
+
+2016/05/04 00:41:13 [I]  * 
+2016/05/04 00:41:13 [P]  *     [任务输出：厦门政府 | KEYIN： | 批次：1]   数据 1 条，用时 2.263577131s！
+
+2016/05/04 00:41:13 [I]  * 
+2016/05/04 00:41:13 [P]  *     [任务小计：厦门政府 | KEYIN：]   共采集数据 1 条，用时 2.264451394s！
+
+2016/05/04 00:41:13 [I]  * 
+2016/05/04 00:41:13 [I]  *********************************************************************************************************************************** 
+2016/05/04 00:41:13 [I]  * 
+2016/05/04 00:41:13 [P]  *                            —— 本次合计采集【数据 1 条】， 实爬URL【成功 3 页 + 失败 0 页 = 合计 3 页】，耗时【2.264527019s】 ——
+2016/05/04 00:41:13 [I]  * 
+2016/05/04 00:41:13 [I]  *********************************************************************************************************************************** 
